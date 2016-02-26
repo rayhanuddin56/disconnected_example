@@ -13,7 +13,7 @@ namespace WebApplication4
     public partial class WebForm1 : System.Web.UI.Page
     {
 
-        private void LoadFromDatabase()  // nessery function
+        private void LoadFromDatabase()
         {
             string sql = "SELECT * FROM Students";
             string connStr = ConfigurationManager.ConnectionStrings["DBCS"].ConnectionString;
