@@ -1,0 +1,5 @@
+C:\Users\Rayhan\Downloads\disconnected_example\WebApplication4\bin\WebApplication4.dll
+C:\Users\Rayhan\Downloads\disconnected_example\WebApplication4\bin\WebApplication4.pdb
+C:\Users\Rayhan\Downloads\disconnected_example\WebApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rayhan\Downloads\disconnected_example\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\Rayhan\Downloads\disconnected_example\WebApplication4\obj\Debug\WebApplication4.pdb
