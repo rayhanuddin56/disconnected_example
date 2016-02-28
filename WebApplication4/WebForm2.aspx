@@ -9,8 +9,14 @@
 <body>
     <form id="form1" runat="server">
     <div>
+<<<<<<< HEAD
      anyway ... this is test on git hub .... 
         rayhan
+=======
+     anyway ... this is test on git hub .... and see web form 3
+
+     rayhanuddin
+>>>>>>> origin/master
     </div>
     </form>
 </body>
